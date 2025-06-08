@@ -26,7 +26,7 @@ I’ve developed a growing portfolio of hands-on experience with various tasks a
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Conduct a security audit                        | <a href="https://google.com">Detection Lab</a>|
+| Conduct a security audit                        | <a href="[https://google.com](https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/1.%20Conduct%20a%20Security%20Audit)">Security Audit</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Linux & SQL                                     | SOC Automation Lab         |
 | Assets, threats, and vulnerabilities            | SOC Automation Lab         |
