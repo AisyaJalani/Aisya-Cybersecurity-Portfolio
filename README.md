@@ -26,12 +26,15 @@ I’ve developed a growing portfolio of hands-on experience with various tasks a
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| Conduct a security audit                        | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/1.%20Conduct%20a%20Security%20Audit">Security Audit</a>|
+| Conduct a security audit                        | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/1.%20Conduct%20a%20Security%20Audit">Security Audit</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/2.%20Network%20Security">Network Security</a>|
-| Linux & SQL                                     | SOC Automation Lab         |
-| Assets, threats, and vulnerabilities            | SOC Automation Lab         |
-| Detection & Response                            | SOC Automation Lab         |
-| Automation with Python                          | SOC Automation Lab         |
+| Linux                                           | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/3.%20Linux%20%26%20SQL">Linux</a> |
+| SQL                                             | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/3.%20Linux%20%26%20SQL">SQL</a> |
+| Assets, threats, and vulnerabilities            | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/4.%20Assets%2C%20Threats%2C%20and%20Vulnerabilities">Vulnerability</a> |
+| Detection & Response                            | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/5.%20Detection%20%26%20Response">Detection & Response</a> |
+| Automation with Python                          | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/5.%20Detection%20%26%20Response">Algorithm with Python</a> |
+| SIEM Tools                                      | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/6.%20Wireshark%2C%20Tcpdump%2C%20IDS%20%26%20SIEM">Wireshark & Tcpdump</a> |
+| Intrusion Detection System(IDS)                 | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/6.%20Wireshark%2C%20Tcpdump%2C%20IDS%20%26%20SIEM">Splunk & Suricata</a> |
 
 **Tools**
 
