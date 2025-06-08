@@ -6,10 +6,10 @@
   - Bachelor in IT graduate.
   - Google Cybersecurity Certificate graduate.
   - Experience in administration, internet community guideline, technical support.
-  - Passionate about protecting systems and data through cybersecurity practices        and artificial intelligence.
+  - Passionate about protecting systems and data through cybersecurity practices and artificial intelligence.
 
 **Skills:**
-  - Threats, risks, and vulnerabilities, Incident Response, Security Frameworks and   Controls, Security Hardening, Python, SQL, Linux Command Line, SIEM tools,          Internet Community Guideline, Policy Review, Analytical Reasoning, Critical         Thinking, Communication Skills.
+  - Threats, risks, and vulnerabilities, Incident Response, Security Frameworks and Controls, Security Hardening, Python, SQL, Linux Command Line, SIEM tools, Internet Community Guideline, Policy Review, Analytical Reasoning, Critical Thinking, Communication Skills.
 
 ## Cybersecurity Portfolio
 
@@ -48,3 +48,8 @@ Tools that I used:
   - Splunk
   - Suricata
   - Python
+
+**Other Projects**
+
+Other standalone projects that I have been working on:
+
