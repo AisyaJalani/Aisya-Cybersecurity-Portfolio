@@ -49,7 +49,9 @@ Tools that I used:
   - Suricata
   - Python
 
-<!-- **Other Projects**
+**Other Projects**
 
-Other standalone projects that I have been working on: -->
+Other standalone projects that I have been working on:
+
+1. win-logmon-wazuh
 
