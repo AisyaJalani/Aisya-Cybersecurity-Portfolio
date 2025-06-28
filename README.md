@@ -53,5 +53,5 @@ Tools that I used:
 
 Other standalone projects that I have been working on:
 
-1. win-logmon-wazuh
+1. <a href = "https://github.com/AisyaJalani/win-logmon-wazuh">win-logmon-wazuh</a>
 
