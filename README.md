@@ -32,7 +32,7 @@ I’ve developed a growing portfolio of hands-on experience with various tasks a
 | SQL                                             | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/3.%20Linux%20%26%20SQL">SQL</a> |
 | Assets, threats, and vulnerabilities            | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/4.%20Assets%2C%20Threats%2C%20and%20Vulnerabilities">PASTA Framework & Vulnerability Assessment</a> |
 | Detection & Response                            | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/5.%20Detection%20%26%20Response">Incident Handler's Journal</a> |
-| Automation with Python                          | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/5.%20Detection%20%26%20Response">Algorithm with Python</a> |
+| Automation with Python                          | <a href="7. Automate with Python">Algorithm with Python</a> |
 | SIEM Tools                                      | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/6.%20Wireshark%2C%20Tcpdump%2C%20IDS%20%26%20SIEM">Splunk</a> |
 | Intrusion Detection System(IDS)                 | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/6.%20Wireshark%2C%20Tcpdump%2C%20IDS%20%26%20SIEM">Suricata</a> |
 | Network Protocol Analyzer & Network Packet Analyzer| <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/6.%20Wireshark%2C%20Tcpdump%2C%20IDS%20%26%20SIEM">Wireshark & Tcpdump</a> |
