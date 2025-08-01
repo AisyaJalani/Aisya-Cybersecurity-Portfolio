@@ -54,4 +54,5 @@ Tools that I used:
 Other standalone projects that I have been working on:
 
 1. <a href = "https://github.com/AisyaJalani/win-logmon-wazuh">win-logmon-wazuh</a>
+2. <a href = "https://github.com/AisyaJalani/Penetration-Testing---OWASP-Juice-Shop">Penetration Testing - OWASP Juice Shop</a>
 
