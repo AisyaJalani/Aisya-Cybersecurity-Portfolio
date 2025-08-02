@@ -37,6 +37,13 @@ I’ve developed a growing portfolio of hands-on experience with various tasks a
 | Intrusion Detection System(IDS)                 | <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/6.%20Wireshark%2C%20Tcpdump%2C%20IDS%20%26%20SIEM">Suricata</a> |
 | Network Protocol Analyzer & Network Packet Analyzer| <a href="https://github.com/AisyaJalani/Aisya-Cybersecurity-Portfolio/tree/main/6.%20Wireshark%2C%20Tcpdump%2C%20IDS%20%26%20SIEM">Wireshark & Tcpdump</a> |
 
+**Other Projects**
+
+Other standalone projects that I have been working on:
+
+1. <a href = "https://github.com/AisyaJalani/win-logmon-wazuh">win-logmon-wazuh</a>
+2. <a href = "https://github.com/AisyaJalani/Penetration-Testing---OWASP-Juice-Shop">Penetration Testing - OWASP Juice Shop</a>
+
 **Tools**
 
 Tools that I used:
@@ -48,11 +55,10 @@ Tools that I used:
   - Splunk
   - Suricata
   - Python
+  - Wazuh
+  - Burp Suite (Community Edition)
+  - Nmap
+  - Docker
 
-**Other Projects**
 
-Other standalone projects that I have been working on:
-
-1. <a href = "https://github.com/AisyaJalani/win-logmon-wazuh">win-logmon-wazuh</a>
-2. <a href = "https://github.com/AisyaJalani/Penetration-Testing---OWASP-Juice-Shop">Penetration Testing - OWASP Juice Shop</a>
 
