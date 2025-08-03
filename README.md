@@ -43,6 +43,7 @@ Other standalone projects that I have been working on:
 
 1. <a href = "https://github.com/AisyaJalani/win-logmon-wazuh">win-logmon-wazuh</a>
 2. <a href = "https://github.com/AisyaJalani/Penetration-Testing---OWASP-Juice-Shop">Penetration Testing - OWASP Juice Shop</a>
+3. <a href = "https://github.com/AisyaJalani/Active-Directory-AD-Lab-Exploitation">Active Directory (AD) Lab Exploitation</a>
 
 **Tools**
 
