@@ -47,7 +47,9 @@ Other standalone projects that I have been working on:
 
 Standalone projects that I have been working on focusing on Manual Tester & QA Tester:
 
-1. <a href = "https://github.com/AisyaJalani/win-logmon-wazuh">parabank-manual-testing-project</a>
+1. <a href = "https://github.com/AisyaJalani/parabank-manual-testing-project">parabank-manual-testing-project</a>
+
+<br>
 
 **Tools**
 
