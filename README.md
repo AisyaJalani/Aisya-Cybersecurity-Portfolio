@@ -45,6 +45,10 @@ Other standalone projects that I have been working on:
 2. <a href = "https://github.com/AisyaJalani/Penetration-Testing---OWASP-Juice-Shop">Penetration Testing - OWASP Juice Shop</a>
 3. <a href = "https://github.com/AisyaJalani/Active-Directory-AD-Lab-Exploitation">Active Directory (AD) Lab Exploitation</a>
 
+Standalone projects that I have been working on focusing on Manual Tester & QA Tester:
+
+1. <a href = "https://github.com/AisyaJalani/win-logmon-wazuh">parabank-manual-testing-project</a>
+
 **Tools**
 
 Tools that I used:
